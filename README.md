@@ -1,6 +1,5 @@
-# hello-world
+# Sugar Labs
 
-Hi machine,
+Hello Sugar Labs,
 
-My name is Maulana Fajar Lazuardi, i like programming but I am still not proficient. 
-And the programming language I'm learning is Java.
+My name is Maulana Fajar Lazuardi, I'm finishing a task called "Make a pull request (Sugar Labs)"
